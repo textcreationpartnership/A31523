@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Certain rule, to find out how many honest men there are in this nation fitted for the use of all sorts, whether Church-of-England-men, Presbyterians, Independents, Anabaptists, Quakers, or papists : and proper to be set up in all schools, shops, parlours, chambers, or closets, both in city and country, in court and camp.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31523</idno>
+            <idno type="STC">Wing C1753</idno>
+            <idno type="STC">ESTC R38995</idno>
+            <idno type="EEBO-CITATION">18204023</idno>
+            <idno type="OCLC">ocm 18204023</idno>
+            <idno type="VID">107062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107062)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1629:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Certain rule, to find out how many honest men there are in this nation fitted for the use of all sorts, whether Church-of-England-men, Presbyterians, Independents, Anabaptists, Quakers, or papists : and proper to be set up in all schools, shops, parlours, chambers, or closets, both in city and country, in court and camp.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.C. and are to be sold by Richard Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"July 31. 1688. This may be printed, Rob. Midgley."</note>
+                  <note>Imperfect: folded and torn, with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christians --  Attitudes.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:107062:1"/>
+            <head>A CERTAIN RULE, To Find out How many Honeſt Men there are in this NATION.</head>
+            <head type="sub">Fitted for the Uſe of all Sorts, Whether <hi>Church-of-England-Men, Presbyterians, Independents, Anabaptiſts, Quakers,</hi> or <hi>Papiſts.</hi>
+            </head>
+            <head type="sub">And Proper to be Set up In all Schools, Shops, Parlours, Chambers, or Cloſets, both in City and Country, in Court and Camp.</head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>July 31. 1688.</date>
+                           </dateline>
+                        </opener>
+                        <p>This may be Printed,</p>
+                        <closer>
+                           <signed>Rob. Midgley.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Since Numbring the People has been ſo faſhionable of late, I have bad a Temptation of putting the Work forward, not in ſuch manner as may any ways give Offence either to God or Man; but ſo as to make it acceptable to both. And therefore, ſince ſome have made ſo exact an Enquiry into the ſeveral Diviſions in this Nation, as to diſcover, ſuch a Party to comprehend an Hundred to One of ſuch another: Another to be a Third Part of the Nation, &amp;c. So many <hi>Church-of-England.Men,</hi> ſo many <hi>Papiſts,</hi> ſo many <hi>Diſſenters,</hi> &amp;c. I earneſtly beg theſe Accountants to look over their Liſts again, and tell me, how many of St. <hi>Paul's Chriſtians</hi> there are amongst them all. A Catalogue of theſe would be an Excellent Work, and much more Edifying than all the reſt; for however ſome may pleaſe themſelves that they Joyn with ſuch a Communion; others, that they Aſſemble with ſuch a Congregation, yet all this is but an Empty Name, a Vain Satisfaction, if they are not of this Liſt of St. <hi>Paul's Chriſtians.</hi> I do not intend by this, as if St. <hi>Paul</hi> ſet up a Particular Order of Chri<g ref="char:EOLhyphen"/>ſtians by himſelf, diſtinct from thoſe, who were the true Followers of Christ, but I call thoſe St. <hi>Paul's Chriſtians,</hi> who fill up that Practical Character of a Chriſtian, as is deſcribed by St. <hi>Paul,</hi> and lead their Lives ac<g ref="char:EOLhyphen"/>cording to thoſe Rules and Directions given by this Apoſtle in his Epiſtles extant in Holy Writ. For St. <hi>Paul</hi> taking occaſion in his Letters he Writ to the First Chriſtians of ſeveral Nations, to preſcribe them a Method of their Lives and Converſation; what they ought to do, and what to avoid; 'tis certain, that in them he ſpoke to us; that in reproving their Follies and Extravagancies, he condemn'd ours; and in giving Directions to them, he inſtruct<g ref="char:EOLhyphen"/>ed us in the Conditions and Qualifications of good Chriſtians. 'Tis a List then of ſuch as live according to theſe <hi>Rules</hi> and <hi>Directions</hi> laid down by St. <hi>Paul,</hi> I would gladly ſee; and to give ſome Encouragement to the helping this forward, I'll here ſet down ſome of the Chief Qualities and Conditions requir'd by St. <hi>Paul</hi> for ſuch a good Chriſtian.</p>
+            <div type="list_of_qualifications">
+               <head>Some Principal Conditions and Qualifications neceſſary for every <hi>honeſt Man</hi> and <hi>good Chriſtian,</hi> as ſet down by St. <hi>Paul.</hi>
+               </head>
+               <list>
+                  <item>
+                     <label>I.</label>
+                     <note n="(a)" place="margin">Rom. 1.29.</note> TO avoid all Unrighteouſneſs, Fornication, Wickedneſs, Cove<g ref="char:EOLhyphen"/>touſneſs, Maliciouſneſs, Envy, Murder, Debate, Deceit, Malignity; <note n="(b)" place="margin">Rom. 1.29, 30, 31.</note> Not to be a Whiſperer, Backbiter, Hater of God, Deſpiteful, Proud, Boaſter, Inventor of Evil Things, Diſobedient to Parents, Covenant-breaker, without Natural Affection, Impla<g ref="char:EOLhyphen"/>cable, Unmerciful.</item>
+                  <item>
+                     <label>II.</label>
+                     <note n="(a)" place="margin">Rom. 2.8.</note> Not to be Contentious; <note n="(b)" place="margin">Rom. 6.8.</note> not to do Wrong, not to Defraud our Brethren, <note n="(c)" place="margin">2 Cor. 7.2.</note> nor Corrupt any Man; <note n="(d)" place="margin">1 Cor. 6.9, 10.</note> not to be a Fornica<g ref="char:EOLhyphen"/>tor, nor Idolater, nor Adulterer, nor Effeminate, nor Abuſer of him<g ref="char:EOLhyphen"/>ſelf with <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nkind nor a <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> nor <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> a Drunkard, nor a Re<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> nor Extortioner.</item>
+                  <item>
+                     <label>III.</label>
+                     <note n="(a)" place="margin">Gal. 5.15, 16, 19, 20.</note> Not to Bite and Devour others; not to fulfil the Luſts of the Fleſh; to avoid Adultery, Fornication, Uncleanneſs, Laſci<g ref="char:EOLhyphen"/>viouſneſs, Idolatry, Witchcraft, Hatred, Variance, Seditions, He<g ref="char:EOLhyphen"/>reſies, Envyings, Murders, Drunkenneſs, Revelings.<note n="(b)" place="margin">Epheſ. 4.25, 6, 27, 28, 29.</note> To put away Lying, and every Man ſpeak Truth with his Neighbour; Let not the Sun go down upon his Wrath; nor give place to the Devil; Let him that ſtole, ſteal no more, let no corrupt Commu<g ref="char:EOLhyphen"/>nication proceed out of his Mouth.</item>
+                  <item>
+                     <label>IV.</label>
+                     <note n="(a)" place="margin">Epheſ. 4.31.</note> Let all Bitterneſs, and Wrath, and Anger, and Clamour, and Evil Speaking, be put away from him.<note n="(b)" place="margin">lb.c. 5.3, 4, 11.</note> But Fornication, and all Uncleanneſs, or Covetouſneſs, let it not be once named: Nei<g ref="char:EOLhyphen"/>ther Filthineſs, nor Fooliſh Talking, nor Jeſting, which are not convenient; And let him have no fellowſhip with the unfruitful works of Darkneſs, but rather reprove them.</item>
+                  <item>
+                     <label>V.</label>
+Let nothing be done through Strife,<note place="margin">
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hil. 2.3, 14.</note> or Vain-glory, but in Low<g ref="char:EOLhyphen"/>lineſs of Mind, without Murmurings, and Diſputings. Put off Malice, Blaſphemy, Filthy Communication out of his Mouth.</item>
+                  <item>
+                     <label>VI.</label>
+                     <note n="(a)" place="margin">1 Theſſ. 5.15.</note> Let him not render Evil for Evil; <note n="(b)" place="margin">1 Tim. 1.4, 10.</note> Nor give heed to Fables, Let him not be Prophane, nor a Murderer, nor Lyer, nor Perjur'd. <note n="(c)" place="margin">1 Tim. 6.17, 20</note> Let him not be High-minded, nor truſt in uncer<g ref="char:EOLhyphen"/>tain Riches: avoid Prophane and Vain Babling, and oppoſition of Science, vainly ſo called, <note n="(d)" place="margin">1 Tim. 4.7.</note> and refuſe prophane and old Wives Fables.</item>
+                  <item>
+                     <label>VII.</label>
+                     <note n="(a)" place="margin">2 Tim. 3.2, 4.</note> Not to be a lover of his Ownſelf, nor Covetous, nor a Boa<g ref="char:EOLhyphen"/>ſter; Proud, Blaſphemer, Unthankful, Unholy, a Truce-breaker, nor a Falſe Accuſer, Incontinent, Fierce, or a Deſpiſer of thoſe that are good; Nor a Traytor, Heady or High-minded; nor a lover of Pleaſures more than of God. <note n="(b)" place="margin">Tit. 3.2.</note> And ſpeak Evil of no Man.</item>
+                  <item>
+                     <label>VIII.</label>
+Let his Love be without Diſſimulation:<note place="margin">Rom. 12.9, 10, 11, 12, 13.</note> abhor that which is Evil, cleave to that which is Good: Be kindly affectioned to Neighbours with Brotherly Love: Not ſlothful in Buſineſs, fer<g ref="char:EOLhyphen"/>vent in Spirit, ſerving the Lord; Patient in Tribulation; continu<g ref="char:EOLhyphen"/>ing inſtan<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in Prayer; given to Hoſpitality.</item>
+                  <item>
+                     <label>IX.</label>
+Let him Bleſs them Which Perſecute him;<note place="margin">Rom. 12.14, 16, 17, 18, 19, 20, 21.</note> Bleſs, and Curſe not: Mind not High Things; Be not Wiſe in his own conceit. Re<g ref="char:EOLhyphen"/>compenceo Man Evil for Evil; Live Peaceable, as much as in him lyeth with all Men. Avenge not himſelf. Feed his Enemy, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> he hun<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>: Be not overcome of Evil, but overcome Evil with Good.</item>
+                  <item>
+                     <label>X.</label>
+Let him be ſubject to Higher Powers;<note place="margin">Rom. 13.1, 5, 7, 8, 13.</note> he muſt needs be ſub<g ref="char:EOLhyphen"/>ject, not only for Wrath, b<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for Conſcience ſake. Let him ren<g ref="char:EOLhyphen"/>der to all their Dues: Owe no Man any thing, but to love one another. Let him walk honeſtly, as-in the Day; not in Rioting and Drunkenneſs, not in Chambering and Wantonneſs, not in Strife and Envying.</item>
+                  <item>
+                     <label>XI.</label>
+                     <note n="(a)" place="margin">Rom. 14.13.</note> Let him not Judge his Neighbour:<note n="(b)" place="margin">1 Cor. 4.12.</note> Being Revil'd, let him Bleſs; Perſecuted, let him ſuffer it:<note n="(c)" place="margin">1 Cor. 13.4, 5, 6, 7.</note> Let him have Charity. Charity ſuffereth long, is kind, envieth not, vaunteth not itſelf, is not puff'd up, doth not behave it ſelf unſeemly, ſeeketh not her own, is not eaſily provok'd, thinketh no Evil, rejoyceth not in Ini<g ref="char:EOLhyphen"/>quity, but in the Truth, beareth all things, believeth all things, hopeth all things, endureth all things.</item>
+                  <item>
+                     <label>XII.</label>
+                     <note n="(a)" place="margin">2 Cor. 7.1.</note> Let him cleanſe himſelf from all filthineſs of the Fleſh and the Spirit, perfecting Holineſs in the fear of the Lord.<note n="(b)" place="margin">Gal. 5.16, 22, 23.</note> Let him walk in the Spirit. The Fruit of the Spirit is Love, Joy, Peace, Long-ſuffering, Gentleneſs, Goodneſs, Faith, Meekneſs, Tempe<g ref="char:EOLhyphen"/>rance.</item>
+                  <item>
+                     <label>XIII.</label>
+                     <note n="(a)" place="margin">Gal. 5.24, 25, 26.</note> If he be Chriſt's, he has crucified the Fleſh, with the Affe<g ref="char:EOLhyphen"/>ctions and Luſts. If he live in the Spirit, let him walk in the Spirit; let him not be deſirous of Vain-glory, provoking none, envying, none.<note n="(b)" place="margin">Gal. 6.9, 10.</note> Let him not be weary in well-doing: let him do good unto all Men.</item>
+                  <item>
+                     <label>XIV.</label>
+Let him walk worthy of the Vocation,<note place="margin">Epheſ. 4.1, 2, 3, 15, 32.</note> wherewith he is called; with all lowlineſs and meekneſs, with long-ſuffering, forbearing his Neighbour in Love; endeavouring to keep the Unity of the Spi<g ref="char:EOLhyphen"/>rit in the Bond of Peace, ſpeaking the Truth in Love, and being kind to others.</item>
+                  <item>
+                     <label>XV.</label>
+                     <note n="(a)" place="margin">Eph. 5.15, 16, 17, 20, 21.</note> Let him walk circumſpectly, redeeming the time, under<g ref="char:EOLhyphen"/>ſtanding what the Will of the Lord is, giving thanks always for all things, ſubmitting to others in the fear of God.<note n="(b)" place="margin">Phil. 1.27.</note> Let his Converſation be as becomes the Goſpel of Chriſt.</item>
+                  <item>
+                     <label>XVI.</label>
+Let his Moderation be known unto all Men.<note place="margin">Phil. 4, 5, 8.</note> Let him think on whatſoever things are honeſt, whatſoever things are juſt, what<g ref="char:EOLhyphen"/>ſoever things are pure, whatſoever things are lovely, whatſoever things are of good report; If there be any vertue, if there be any praiſe, let him think on theſe things.</item>
+                  <item>
+                     <label>XVII.</label>
+                     <note n="(a)" place="margin">Coloſ. 1.10.</note> Let him walk worthy of the Lord, unto all pleaſing, being fruitful in every good work, and increaſing in the knowledge of God.<note n="(b)" place="margin">Coloſ. 3.1, 2.5.</note> Let him ſeek thoſe things which are above, ſet his affe<g ref="char:EOLhyphen"/>ction on things above, not on things on the Earth, Let him morti<g ref="char:EOLhyphen"/>fie his Members, which are upon Earth, Fornication, Uncleanneſs, Inordinate Affection, Evil Concupiſcence, and Covetouſneſs, which is Idolatry.</item>
+                  <item>
+                     <label>XVIII.</label>
+Let him put on the Bowels of Mercies,<note place="margin">Coloſ. 3.12, 13, 14, 17.</note> Kindneſs, Humbleneſs of Mind, Meekneſs, Long-ſuffering, Forbearing and Forgiving others, that have a Quarrel againſt him. And above all things, let him put on Charity, which is the Bond of Perfectneſs; And what<g ref="char:EOLhyphen"/>ſoever he does in Word or Deed, let him do all in the Name of the Lord Jeſus.</item>
+                  <item>
+                     <label>XIX.</label>
+                     <note n="(a)" place="margin">Coloſ. 4.2, 5.</note> Let him continue in Prayer, and walk in Wiſdom toward them that are without.<note n="(b)" place="margin">1 Theſſ. 4.11.</note> Let him ſtudy to be quiet, and do his own buſineſs.<note n="(c)" place="margin">1 Theſſ. 5.6, 8, 14, 22.</note> Let him watch, and be ſober, put on the Breaſt<g ref="char:EOLhyphen"/>plate of Faith and Love, and for an Helmet, the Hope of Salva<g ref="char:EOLhyphen"/>tion. Let him warn them that are Unruly, comfort the Feeble<g ref="char:EOLhyphen"/>minded, ſupport the Weak, be patient toward all Men, and abſtain from all appearance of Evil.</item>
+                  <item>
+                     <label>XX.</label>
+                     <note n="(a)" place="margin">2 Theſſ. 3.6.</note> Let him withdraw himſelf from every Brother, that Walk<g ref="char:EOLhyphen"/>eth diſorderly, and not after the Tradition received from the Apo<g ref="char:EOLhyphen"/>ſtles.<note n="(b)" place="margin">1 Tim. 1.18, 19.</note> Let him war a good Warfare, holding Faith and a good Conſcience.<note n="(c)" place="margin">1 Tim. 6.11.</note> Let him follow after Righteouſneſs, Godlineſs, Faith, Love, Patience, Meekneſs.</item>
+                  <item>
+                     <label>XXI.</label>
+                     <note n="(a)" place="margin">2 Tim. 2.19.</note> Let every one, that nameth the Name of Chriſt, depart from Iniquity.<note n="(b)" place="margin">Heb. 13.5, 7, 17.</note> Let his Converſation be without Covetouſneſs, and be content with ſuch things as he has. Let him remember thoſe that have the Rule over him, and ſubmit himſelf.</item>
+               </list>
+            </div>
+            <div type="part">
+               <p>Theſe are ſome of the chief Qualifications preſcrib'd by St. <hi>Paul,</hi> for every good Chriſtian, who deſires, as in Name, ſo in Life and Converſation, to be a Member of Chriſt: ſo that whatſoever elſe may be required to make up his Character, yet 'tis cer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain, let a man be under what Denomination he thinks beſt, whether of <hi>Church of England, Diſſenter, Papiſt,</hi> &amp;c. yet all will avail nothing, unleſs he takes care to comply with theſe Directions of the Apoſtle. And therefore let the Apoſtolic Doctrine and Purity of Faith be profeſs'd and taught where it will, yet 'tis a vanity to reckon all thoſe for <hi>true Members</hi> of that Communion, who only <hi>joyn in Worſhip, aſſemble to Hear,</hi> and <hi>approve the Doctrine:</hi> For this is not enough; They muſt, beſides all this, <hi>live the Life of true Chriſtians,</hi> obſerve what St. <hi>Paul</hi> preſcribes, and avoid what he forbids and declares to be diſpleaſing to God. This then indeed will do; Theſe are Chriſtians to the purpoſe; And there<g ref="char:EOLhyphen"/>fore, whe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the next Liſts are made, and there is an Account of ſo many that go to this Congregation, and ſo many to another, I would have the Rolls lookt over again, and from every Congregation be deducted, all thoſe that are <hi>
+                     <g ref="char:V">Ʋ</g>nrighteous, Fornicato<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, Covetous, Malicious, Deceitful, Backbiters, Drunkards, <g ref="char:V">Ʋ</g>nclean, Contentious, Lyers, Curſers,</hi> &amp;c. and ſo on, according to what St. <hi>Paul</hi> directs above; and then thoſe that remain, will be a <hi>choſen Number,</hi> and the <hi>true Members</hi> of every Communion. And a Liſt of theſe it is I ſhould gladly ſee: Perhaps you'l think there will be but a <hi>thin Number</hi> left behind; and it may be ſo indeed: But then what a ſtrange Generation are we fal'n into, in which all are ſo ſeemingly Zealous in contendin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the Truth of Chriſtianity, and yet when we come to caſt up the Account the right way, there are ſo <hi>few Chriſtians in earnest</hi> to be found amongſt us! But what ſhall we ſay, The Ballance of Men is deceitful. Their Account is caſt up by halves, w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thout due conſideration; They reckon <hi>what Congregation they go to; what Doctrine they hear and believe;</hi> but not ſo much <hi>what their Lives are.</hi> And what ſignifies it, what their <hi>Faith</hi> is, if they live the <hi>Lives</hi> not of <hi>good Chriſtians,</hi> but rather of <hi>Unbelievers!</hi> A <hi>Chriſtian Faith,</hi> with an <hi>Heatheniſh Life</hi> will never carry a Man to <hi>Heaven.</hi> 'Tis fitting therefore, every Man ſhould call himſelf to a more juſt Account, and not only conſider, whether he <hi>goes to Hear</hi> and <hi>Worſhip,</hi> but likewiſe, <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>w he Lives.</hi> Theſe Directions of St. <hi>Paul</hi> may ſerve for this purpoſe, by which, if he <hi>Daily</hi> or <hi>Weekly</hi> examine himſelf, he'll ſoon find, what Grounds he has for <hi>true Peace of Conſcience.</hi> I humbly recommend therefore this Paper to all <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orts of <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n.</p>
+               <p>
+                  <hi>1st.</hi> T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all <hi>Teachers,</hi> of what Communion or Perſwaſion ſoever, that they weigh it ſeriouſly; and remember, that a Congregation of <hi>Hearers,</hi> and not of <hi>Doers,</hi> of <hi>Believers,</hi> and not of <hi>Livers,</hi> will One Day be little to their Credit: That <hi>all Opi<g ref="char:EOLhyphen"/>nions</hi> and <hi>Doctrines</hi> are alike to the <hi>Evil Liver;</hi> And that 'tis to little purpoſe to keep their Flock to <hi>a Party,</hi> if they let them run into <hi>Hell</hi> by their <hi>wicked Lives.</hi>
+               </p>
+               <p>
+                  <hi>2ly.</hi> T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all <hi>Private Perſons;</hi> That they peruſe it carefully, and never eſteem themſelves truly Members of any Chriſtian Congregation, till they make it their buſineſs to conform their Lives to theſe Directions of St. <hi>Paul.</hi> It matters not <hi>where they aſſen<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> if they have their Hearts full of <hi>Bitterneſs</hi> and <hi>Anger,</hi> full of <hi>Malice</hi> and <hi>Revenge;</hi> If they lye under the Guilt of <hi>Incontinency</hi> and <hi>Covetouſneſs,</hi> of <hi>Drunkenneſs</hi> and <hi>Injuſtice;</hi> If they have <hi>not crucified the Fleſh, with the Affections and Luſts; Their Converſation be not as becomes the Goſpel of Chriſt.</hi> For however theſe may flatter themſelves with the Name of <hi>Catholick</hi> or <hi>Reformed Chriſtian,</hi> yet 'tis certain they do not belong to <hi>Christ.</hi>
+               </p>
+               <p>
+                  <hi>3ly.</hi> T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all thoſe, who being Members of no Congregation, hope to ſave their Souls, by <hi>living Honeſtly and Juſtly, and giving every one their own;</hi> That they reflect upon theſe <hi>Rules</hi> and <hi>Directions</hi> of St. <hi>Paul,</hi> and remember, that their <hi>Honeſtly</hi> and <hi>Juſt<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> to render them pleaſing to God, muſt include a <hi>Compliance with all that is here directed by this Apoſtle;</hi> and that they deceive themſelves, if without <hi>all this,</hi> they think their <hi>Honeſtly</hi> and <hi>Juſtly</hi> will ever rank them among the Bleſſed. Let theſe Me<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee to conform their <hi>Lives</hi> in <hi>earnest</hi> to this <hi>Model</hi> of a <hi>Chriſtian Practice,</hi> and then I don't queſtion but 'twill be available to them.</p>
+               <p>And ſi<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the obſervance of theſe Directions, gather'd out of Holy Writ, is a common Concern of all, I recommend them heartily to all, whether <hi>Church-of-England-Men, Papiſts, Presbyterians, Anabaptiſts, Independents,</hi> or <hi>Quakers,</hi> putting them in mind, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat however they may think themſelves oblig'd to <hi>differ</hi> from one another in other things, yet that in <hi>theſe Duties</hi> they are all <hi>oblig'd to agree:</hi> Let them all therefore examine their Lives and Converſations, and often call themſelves to an Account, theſe Directions of St. <hi>Paul;</hi> let them have them always in fight, both in their Shop, their Parlour, their Chamber, and their Cloſet, that ſo they may never forget their Duty. And after a ſhort Obſervation both of themſelves and others, t<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſoon diſcover, who are the <hi>honest Men</hi> and <hi>good Chriſtians.</hi> This too will ſoon remove our Animoſities, and eſtabliſh a Common Peace; and otherwiſe, 'tis to be fear'd, that notwithſtanding all the Zealous Pretences to the <hi>Truth,</hi> we ſhall in a <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rt time quite loſe the <hi>Practice of Chriſtianity,</hi> whil'ſt we contend for the <hi>Name.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>F. C.</hi> and are to be Sold by <hi>Richard Baldwin,</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
